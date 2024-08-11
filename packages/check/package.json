@@ -1,0 +1,10 @@
+{
+  "name": "@buck-shared/check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "module": "dist/index.esm.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

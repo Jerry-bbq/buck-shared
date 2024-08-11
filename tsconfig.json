@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "declaration": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "outDir": "./dist/types",
+    "skipLibCheck": true,
+    "removeComments": true
+  },
+  "include": ["packages/**/*"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}
