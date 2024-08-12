@@ -13,8 +13,8 @@
     "test": "jest",
     "test:watch": "jest --watchAll",
     "changeset": "changeset",
-    "packages-version": "changeset version",
-    "publish": "changeset publish --registry=https://registry.npmjs.com/",
+    "version": "changeset version",
+    "publish": "changeset publish",
     "prepare": "husky"
   },
   "keywords": [],
