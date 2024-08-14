@@ -1,4 +1,22 @@
-import { isNumber, isArray, isString, isBoolean, isFunction, isObject, isUndefined, isNull, isDate, isBigInt, isMap, isSet, isRegExp, isError, isPromise, isSymbol, is } from '../src/index';
+import {
+  isNumber,
+  isArray,
+  isString,
+  isBoolean,
+  isFunction,
+  isObject,
+  isUndefined,
+  isNull,
+  isDate,
+  isBigInt,
+  isMap,
+  isSet,
+  isRegExp,
+  isError,
+  isPromise,
+  isSymbol,
+  is,
+} from '../src/index';
 
 // TODO
 // jest环境为node， 暂不支持window，所以不支持isElement,isWindow
