@@ -8,7 +8,7 @@
     "outDir": "./dist/types",
     "skipLibCheck": true,
     "removeComments": true,
-    "moduleResolution": "node",
+    "moduleResolution": "node"
   },
   "include": ["packages/**/*"],
   "exclude": ["node_modules", "**/*.spec.ts"]
