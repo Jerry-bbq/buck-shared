@@ -1,6 +1,6 @@
 {
   "name": "@buck-shared/url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "src/index.js",
   "module": "dist/index.esm.js",
