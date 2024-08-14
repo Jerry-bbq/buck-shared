@@ -43,3 +43,13 @@ export const checkURL = (value: string): boolean => {
   const reg = /^((https|http|ftp|rtsp|mms)?:\/\/)[^\s]+/;
   return check(value, reg);
 };
+
+export const isMacOS = (): boolean => {
+  const macReg = /macintosh|mac os x/i;
+  return macReg.test(navigator.userAgent);
+};
+
+export const isWindowsOS = (): boolean => {
+  const windowsReg = /windows|win32/i;
+  return windowsReg.test(navigator.userAgent);
+};
