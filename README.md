@@ -1,5 +1,9 @@
 # 工具函数库
 
-## 安装
+## publish
 
-## 使用
+```bash
+pnpm run changeset
+pnpm run version
+pnpm run publish
+```
