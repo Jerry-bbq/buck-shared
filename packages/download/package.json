@@ -1,5 +1,5 @@
 {
-  "name": "@buck-shared/download",
+  "name": "@buck-shared/down-file",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
