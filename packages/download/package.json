@@ -1,0 +1,14 @@
+{
+  "name": "@buck-shared/download",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "module": "dist/index.esm.js",
+  "publishConfig": {
+    "main": "dist/index.js",
+    "access": "public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
